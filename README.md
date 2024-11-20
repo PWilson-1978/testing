@@ -6,6 +6,7 @@ This routine is for practice storing AI training data in pandas and pickle forma
 
 Here's what the output looks like when I run it.
 
+
 Session data saved to session_data.pkl
 Training data saved to training_data.csv
 unserialized data:  {'user_id': 12345, 'messages_exchanged': 50, 'last_interaction': '2024-11-20 07:01:45', 'user_preferences': {'theme': 'dark', 'language': 'English'}}
